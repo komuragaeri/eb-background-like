@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkeb_background_like"]=self["webpackChunkeb_background_like"]||[]).push([[443],{7381:function(n,e,u){u.r(e),u.d(e,{default:function(){return k}});var a=u(3396);const r={class:"about"},t=(0,a._)("h1",null,"This is an about page",-1),c=[t];function s(n,e){return(0,a.wg)(),(0,a.iD)("div",r,c)}var i=u(89);const o={},b=(0,i.Z)(o,[["render",s]]);var k=b}}]);
+//# sourceMappingURL=about.2da95b19.js.map
